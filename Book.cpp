@@ -10,10 +10,10 @@
 
 #include <iostream>
 #include <nlohmann/json.hpp>
+#include "Book.h"
 
 
-
-class Book {
+class Books {
 
     nlohmann::json ex1 = nlohmann::json::parse(R"(
         {
@@ -36,7 +36,6 @@ public:
 
     }
 };
-
 
 
 
