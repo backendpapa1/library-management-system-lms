@@ -1,0 +1,3 @@
+/Users/barca/CLionProjects/lms/cmake-build-debug/CMakeFiles/lms.dir
+/Users/barca/CLionProjects/lms/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/barca/CLionProjects/lms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
