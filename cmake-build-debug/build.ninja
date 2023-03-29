@@ -49,14 +49,14 @@ build cmake_object_order_depends_target_lms: phony || CMakeFiles/lms.dir
 build CMakeFiles/lms.dir/main.cpp.o: CXX_COMPILER__lms_Debug /Users/barca/CLionProjects/lms/main.cpp || cmake_object_order_depends_target_lms
   DEP_FILE = CMakeFiles/lms.dir/main.cpp.o.d
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -std=gnu++17
-  INCLUDES = -I/Users/barca/CLionProjects/lms/json/include
+  INCLUDES = -I/usr/local/Cellar/thors-serializer/2.2.19/include -I/Users/barca/CLionProjects/lms/json/include -I/Users/barca/CLionProjects/lms/rapidjson/include
   OBJECT_DIR = CMakeFiles/lms.dir
   OBJECT_FILE_DIR = CMakeFiles/lms.dir
 
 build CMakeFiles/lms.dir/Book.cpp.o: CXX_COMPILER__lms_Debug /Users/barca/CLionProjects/lms/Book.cpp || cmake_object_order_depends_target_lms
   DEP_FILE = CMakeFiles/lms.dir/Book.cpp.o.d
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -std=gnu++17
-  INCLUDES = -I/Users/barca/CLionProjects/lms/json/include
+  INCLUDES = -I/usr/local/Cellar/thors-serializer/2.2.19/include -I/Users/barca/CLionProjects/lms/json/include -I/Users/barca/CLionProjects/lms/rapidjson/include
   OBJECT_DIR = CMakeFiles/lms.dir
   OBJECT_FILE_DIR = CMakeFiles/lms.dir
 
